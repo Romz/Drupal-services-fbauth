@@ -1,0 +1,7 @@
+name =  Services fbauth
+description = Provide a facebook auth for services
+core = 7.x
+dependencies[] = fboauth
+dependencies[] = services
+
+package = Services - authentication
