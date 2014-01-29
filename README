@@ -1,0 +1,11 @@
+Drupal service fbauth
+=====================
+
+Provide a fblogin ressources for the drupal services 3.x module
+
+How to use
+----------
+
+First, you need to get the facebook userid and accesstoken from facebook.
+
+Then, make a POST request to <endpoint>/user/fblogin with userId and accessToken datas.
